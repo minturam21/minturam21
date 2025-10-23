@@ -17,7 +17,7 @@
   <tr>
       <td><a href="https://github.com/minturam21"><img src="https://img.shields.io/github/followers/minturam21.svg?label=GitHub&style=social" alt="GitHub"><td>
   <a href="https://www.linkedin.com/in/minturam20">
-    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&logoColor=0A66C2" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&logoColor=Blue" alt="LinkedIn">
   </a>
 </td>
 
