@@ -33,7 +33,7 @@
 - 📊 Building projects in **data analysis, visualization, and automation**.  
 - 🤖 Starting hands-on **machine learning** mini-projects.  
 - 🌐 Designing a **personal portfolio website** (coming soon).  
-- 🎯 Preparing for **international internships **.  
+- 🎯 Preparing for **international internships**.  
 
 ---
 
