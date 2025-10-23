@@ -15,6 +15,9 @@
 
 ---
 
+![Motto]()
+
+---
 ### 💫 About Me  
 - 🎓 **Undergraduate in Physics** with a passion for Data Science and AI.  
 - 💡 Currently learning **Python, Pandas, NumPy, Matplotlib, Seaborn**, and **Machine Learning**.    
