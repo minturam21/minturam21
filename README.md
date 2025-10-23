@@ -47,24 +47,11 @@
 
 ---
 
-### 🧩 Featured Projects  
-| Project | Description | Tools |
-|----------|--------------|-------|
-| 🌦️ **Weather Data Visualizer** | Analyzes and visualizes multi-year temperature data trends. | Python, Pandas, Matplotlib |
-| 🎬 **Netflix Insights Dashboard** | Interactive EDA on Netflix dataset to uncover viewing trends. | Jupyter, Seaborn, NumPy |
-| 🧮 **AI-Powered Calculator** | A smart Python-based calculator with error handling & GUI. | Python, Tkinter |
-
-*(more projects coming soon — stay tuned!)*
-
----
-
 ### 🌐 Connect With Me  
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINK)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/YOUR_USERNAME)
-[![Email](https://img.shields.io/badge/-Email-red?logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@gmail.com)
-
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minturam20/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/minturam21)
 </div>
 
 ---
