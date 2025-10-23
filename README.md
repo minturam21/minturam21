@@ -41,7 +41,7 @@
 <div align="center">
   
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=minturam21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minturam21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
 </div>
 
