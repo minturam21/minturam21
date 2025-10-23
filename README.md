@@ -3,11 +3,12 @@
 <h1 align="center">👋 Hi, I'm Mintu Ramchiary </h1>
 <h3 align="center">Data Science Enthusiast | Physics Major | Machine Learning </h3>
 ---
+### 🌐 Connect With Me  
+<div align="center">
 
-<table>
-  <tr>
-      <td><a href="https://github.com/minturam21"><img src="https://img.shields.io/github/followers/minturam21.svg?label=GitHub&style=social" alt="GitHub"></a></td>
-      <td><a href="https://www.linkedin.com/in/minturam20"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a></td>
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minturam20/)
+[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/minturam21)
+</div>
 
 
 ---
@@ -52,15 +53,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minturam21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
 
 
-</div>
-
----
-
-### 🌐 Connect With Me  
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minturam20/)
-[![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/minturam21)
 </div>
 
 ---
