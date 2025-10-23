@@ -15,7 +15,7 @@
 
 ---
 
-![Motto]()
+![Motto](tumblr_m1ix55j1HJ1qcuot1o1_500.webp)
 
 ---
 ### 💫 About Me  
