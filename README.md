@@ -6,13 +6,15 @@
 ---
 
 ### 🌐 Connect With Me  
+<table>
+  <tr>
 <div align="center">
-
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minturam20/)
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/minturam21)
 </div>
 
-
+  </tr>
+</table>
 ---
 
 ### 💫 About Me  
