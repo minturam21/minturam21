@@ -1,6 +1,6 @@
 
 
-<h1 align="center">👋 Hi, I'm Mintu Ramchiary </h1>
+<h1 align="center">👋 Hi, I'm Mintu </h1>
 <h3 align="center">Data Science Enthusiast | Physics Major | Machine Learning </h3>
 
 ---
