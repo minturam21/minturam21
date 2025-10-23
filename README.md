@@ -13,18 +13,6 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/minturam21)
 </div>
 
-<table>
-  <tr>
-      <td><a href="https://github.com/minturam21"><img src="https://img.shields.io/github/followers/minturam21.svg?label=GitHub&style=social" alt="GitHub"><td>
-  <a href="https://www.linkedin.com/in/minturam20">
-    <img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin&logoColor=Blue" alt="LinkedIn">
-  </a>
-</td>
-
-  </tr>
-</table>
----
-
 ![Motto](tumblr_m1ix55j1HJ1qcuot1o1_500.webp)
 
 ---
