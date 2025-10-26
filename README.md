@@ -10,7 +10,7 @@
 <table>
   <tr>
  
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minturam20/)
+<td>[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/minturam20/)</td>
 [![GitHub](https://img.shields.io/badge/-GitHub-black?logo=github&logoColor=white)](https://github.com/minturam21)
 [![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white)](https://my-polfolio.vercel.app/)
 <img src="https://komarev.com/ghpvc/?username=minturam21&label=Profile%20views&color=0e75b6&style=flat" alt="minturam21" /> 
