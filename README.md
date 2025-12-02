@@ -59,9 +59,8 @@
 <div align="center">
   
 [![My github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=minturam21&theme=merko)](https://github.com/minturam21/github-readme-activity-graph)
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=minturam21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minturam21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=minturam21&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=7200)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=minturam21&layout=compact&theme=tokyonight&hide_border=true&border_radius=12&cache_seconds=7200)
 
 </div>
 
