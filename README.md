@@ -67,8 +67,8 @@
 ---
 
 ### ✨ Quote I Live By  
-> “Data doesn’t lie it reveals.”  
->  and I’m learning to listen to it.  
+> Data doesn’t lie it reveals.
+> and I’m learning to listen to it.  
 
 ---
 
