@@ -13,7 +13,6 @@
 [![Vercel](https://img.shields.io/badge/-Vercel-black?logo=vercel&logoColor=white)](https://my-polfolio.vercel.app/)
 <img src="https://komarev.com/ghpvc/?username=minturam21&label=Profile%20views&color=0e75b6&style=flat" alt="minturam21" /> 
 
-
  </tr>
 </table>
 
