@@ -1,7 +1,9 @@
 
 <h1 align="center">👋 Hi there </h1>
 <h3 align="center">Data Scientist | Physics Student | Machine Learning </h3>
+
 --- 
+
 <table>
   <tr>
  
