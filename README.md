@@ -62,7 +62,6 @@
 
 ---
 
-
 ### ✨ Quote 
 > Data doesn’t lie it reveals.
 > and I’m learning to listen to it.  
